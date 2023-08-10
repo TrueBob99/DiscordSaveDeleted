@@ -273,7 +273,7 @@
 			<progress style="display:none;"></progress>
 		</div>`);
 
-    var savedeletedTemplate = (`<div id="savedeleted" style=" resize: both; overflow-y:hidden;overflow-x:hidden; width: 400px; height: 350px;  position: fixed; z-index: 999;background-color: #36393F;  border: 2px solid darkgray; display: none;" >
+    var savedeletedTemplate = (`<div id="savedeleted" style=" resize: both; overflow-y:hidden;overflow-x:hidden; width: 240px; height: 1320px;  position: fixed; z-index: 999;background-color: #36393F;  border: 2px solid darkgray; display: none;" >
 		 <div id="DELMSGS_CLASSDIV" style="justify-content: center; position: absolute; "   class="scroller-kQBbkU auto-2K3UW5  scrollerContent-2SW0kQ  managedReactiveScroller-1LjJZ5  " >
          <div id="DELMSGS_HEADER" style="top: 35%; text-align: center; color: grey; ">Deleted messages count.</div>
 		 <ol id="DELMSGS_OLMSGLIST" style="min-height:0; max-height: 0;" aria-label="DelMsgsOL" role="list" data-list-id="chat-messages1" tabindex="0">
